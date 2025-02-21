@@ -1,5 +1,5 @@
 
-<h2 align="left">Hello world 👋! I'm Fernanda, be very welcome </h2>
+<h2 align="left">Hello world! 👋 I'm Fernanda, be very welcome </h2>
 
 ###
 
@@ -31,7 +31,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
 
